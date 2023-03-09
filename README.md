@@ -4,5 +4,5 @@ This is an implementation of a number guessing game that generates a number betw
 # Language
 JavaScript
 
-#Author
+# Author
 Joshua Onwuemene
